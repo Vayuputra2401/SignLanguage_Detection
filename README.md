@@ -6,7 +6,8 @@ A real time Sign Language detector using Tensorflow ObjectDetectionAPI
 ## Introduction
 This is the documentation for the sign language detection program using the TensorFlow Object Detection API. The goal of this program is to detect sign language gestures in real-time using a pre-trained object detection model. The program is trained to recognize four classes: "yes", "no", "I love you", and "hello".
 
-[![Sign Language Detection-v1](https://drive.google.com/file/d/1DPJ-qZoma5uiOMR4qHED_Cp1nHSb42gT/view?usp=sharing)](https://drive.google.com/file/d/1DPJ-qZoma5uiOMR4qHED_Cp1nHSb42gT/view?usp=sharing)
+<iframe width="560" height="315" src="https://drive.google.com/uc?export=download&id=1DPJ-qZoma5uiOMR4qHED_Cp1nHSb42gT" frameborder="0" allowfullscreen></iframe>
+
 
 
 ## Dataset and Labeling
